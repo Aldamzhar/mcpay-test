@@ -7,11 +7,21 @@
     },
     "devDependencies": {
         "autoprefixer": "^10.4.20",
-        "axios": "^1.7.4",
+        "axios": "^1.7.7",
         "concurrently": "^9.0.1",
         "laravel-vite-plugin": "^1.0",
         "postcss": "^8.4.47",
         "tailwindcss": "^3.4.13",
         "vite": "^5.0"
+    },
+    "dependencies": {
+        "@inertiajs/inertia": "^0.11.1",
+        "@inertiajs/vue3": "^1.2.0",
+        "@vitejs/plugin-vue": "^5.1.4",
+        "router": "^2.0.0",
+        "vue": "^3.5.12",
+        "vue-router": "^4.4.5",
+        "ziggy": "^2.4.0",
+        "ziggy-js": "^2.3.1"
     }
 }
